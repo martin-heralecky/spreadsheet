@@ -1,6 +1,6 @@
 # spreadsheet
 
-WARN: There are lots of unaddressed issues and todos in this project.
+This is a school project. It is not intended for regular use as there are lots of unaddressed issues and todos.
 
 ## Compiling the source
 ```shell
