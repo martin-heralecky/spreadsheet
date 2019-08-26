@@ -2,6 +2,10 @@
 
 This is a school project. It is not intended for regular use as there are lots of unaddressed issues and todos.
 
+## Intro
+
+spreadsheet is a very simple implementation of a table editor - spreadsheet - which runs in terminal. It supports features like cell data types, nested formulas, saving to and loading from a file. The project is written in C++ with ncurses library.
+
 ## Compiling the source
 ```shell
 make
